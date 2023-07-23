@@ -1,0 +1,44 @@
+.head {
+    display: flex;
+    border:1px solid black ;
+}
+
+.logo img {
+    width: 100px;    
+}
+
+.navbar {
+    position: absolute;
+    right: 0;
+}
+
+.nav-list {
+    display: flex;
+    padding: 2px;
+    list-style-type: none;
+    padding-right: 30px;
+}
+.nav-list li{
+    padding-right: 30px;    
+}
+
+.res-container {
+    width: 200px;
+    height: 300px;
+    margin: 2px;
+    border:1px solid black ;
+}
+
+.image {
+    width: 200px;
+    height:200x;
+
+}
+
+.res-cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2px;
+    border:1px solid black ;
+}
+ 
